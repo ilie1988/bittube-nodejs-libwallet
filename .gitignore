@@ -2,7 +2,7 @@
 **/node_modules/**
 /lib
 /deps
-/monero
+/bittube
 /node_modules
 /build
 boost*
