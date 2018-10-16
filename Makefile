@@ -5,7 +5,7 @@ BOOST_VERSION=1.66.0
 BOOST_DIRNAME=boost_1_66_0
 
 PWD=${shell pwd}
-BOOST_LIBS=chrono,date_time,filesystem,program_options,regex,serialization,system,thread
+BOOST_LIBS=chrono,date_time,filesystem,program_options,regex,serialization,system,thread,locale
 THREADS?=1
 
 .PHONY: all
